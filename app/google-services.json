@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86055800932",
+    "firebase_url": "https://damarauriga1202150007modul6.firebaseio.com",
+    "project_id": "damarauriga1202150007modul6",
+    "storage_bucket": "damarauriga1202150007modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86055800932:android:c1c6d23a4451272f",
+        "android_client_info": {
+          "package_name": "com.androidhehe.riga.damarauriga_1202150007_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86055800932-rp62sco4glq2f6d7jsq87on25d6rm0ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidhehe.riga.damarauriga_1202150007_modul6",
+            "certificate_hash": "eceb73a45b5346c330b88653713ebc4175c13511"
+          }
+        },
+        {
+          "client_id": "86055800932-cuaau4o6jhjb8g837h86afrlbclstuhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYC1_r5XAPrkhd19f-vb7wfYzyNrOiqRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86055800932-cuaau4o6jhjb8g837h86afrlbclstuhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
